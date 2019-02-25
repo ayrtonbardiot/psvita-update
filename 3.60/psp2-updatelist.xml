@@ -5,7 +5,7 @@
     <np_d level0_system_version="03.600.000" level1_system_version="03.600.000" level2_system_version="03.600.000" map="03.600.000" />
     <version system_version="03.600.000" label="3.60">
       <update_data update_type="full">
-        <image size="0"></image>
+        <image size="0">https://github.com/notaryzw3b/psvita-update/blob/master/3.60/PSP2UPDAT.PUP</image>
       </update_data>
     </version>
 </region>
